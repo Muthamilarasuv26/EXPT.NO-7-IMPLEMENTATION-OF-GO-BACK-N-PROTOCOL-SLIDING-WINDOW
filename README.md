@@ -42,8 +42,8 @@ printf("\n All frames sent successfully.\n");
 }
 ```
 # OUTPUT
+<img width="1599" height="964" alt="647639674-91fb9348-103c-4e3d-8274-23fb69c3c5ae" src="https://github.com/user-attachments/assets/fa1c432c-c512-4004-ba77-1284823ada2d" />
 
-<img width="1599" height="1200" alt="image" src="https://github.com/user-attachments/assets/91fb9348-103c-4e3d-8274-23fb69c3c5ae" />
 
 
 
